@@ -54,7 +54,7 @@ p{
 
 a{
   font-size: 16px;
-  color: #C12258;
+  color: #B21F50;
   text-decoration-style: wavy;
 }
 
@@ -123,7 +123,7 @@ tbody tr:nth-child(even){
 }
 
 tbody tr:hover{
-  background-color: rgba(126, 8, 32, 0.25);
+  background-color: rgba(126, 8, 37, 0.25);
 }
 
 
