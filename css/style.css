@@ -28,10 +28,15 @@ body{
   color: #000000;
   font-size: 16px;
   margin: 1.2em;
-  background-size: cover ;
+  background-size: cover;
   background-position: center;
+  
 
   /*Req 1*/
+  font-family: "Andika", sans-serif;
+  background-image: url("../images/pigeon-background.JPEG");
+  background-color: #DDDDDD;
+  background-repeat: no-repeat;
 }
 
 h1{
@@ -39,6 +44,7 @@ h1{
   font-size: 2em;
 
   /*Req 2*/
+  
 }
 
 p{
